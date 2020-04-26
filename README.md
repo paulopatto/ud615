@@ -6,6 +6,7 @@ This is the code for [Scalable Microservices with Kubernetes](https://www.udacit
 * Deploy and manage Docker containers using kubectl
 
 Kubernetes Version: 1.2.2
+GO Lang: 1.6.2
 
 ## Course Description
 
